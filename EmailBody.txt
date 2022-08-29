@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+</style>
+<title>Reminder</title>
+</head>
+<body>
+<div class="myDiv">
+  <h2>Id numaralı işin bitimine 1 gün kaldı!</b></h2>
+</div>
+</body>
+</html>
